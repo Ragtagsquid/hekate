@@ -1,6 +1,5 @@
-# hekate - CTCaer mod
+# hekate - Squid mod
 
-![Image of Hekate](https://i.imgur.com/O3REoy5.png)
 
 
 Custom Nintendo Switch bootloader, firmware patcher, and more.
@@ -42,9 +41,6 @@ There are four possible type of entries. "**[ ]**": Boot entry, "**{ }**": Capti
 You can find a template [Here](./res/hekate_ipl_template.ini)
 
 
-```
-hekate     (C) 2018 naehrwert, st4rk
-CTCaer mod (C) 2018 CTCaer.
 
 Thanks to: derrek, nedwill, plutoo, shuffle2, smea, thexyz, yellows8.
 Greetings to: fincs, hexkyz, SciresM, Shiny Quagsire, WinterMute.
@@ -70,5 +66,5 @@ Open source and free packages used:
            / /\         `) )    / / `"".`\
      , _.-'.'\ \        / /    ( (     / /
       `--'`   ) )    .-'.'      '.'.  | (
-             (/`    ( (`          ) )  '-;   [switchbrew]
+             (/`    ( (`          ) )  '-;   
 ```
